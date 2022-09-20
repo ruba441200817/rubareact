@@ -76,19 +76,24 @@ blockquote
     display: flex;
     background-color: #FFF7FE;
     text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    
 }
 
 blockquote p
 {
     width: 21em;
     text-indent: 0em;
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    
 }
 
 a{
     color:thistle;
-    font-size: 30px;
+    font-size: 15px;
     font-style: italic;
 }
 /*
@@ -159,4 +164,7 @@ strong{
     margin-left: auto;
     margin-right: auto;
     width: 30em;
+}
+.footer{
+    background-color: lightblue;
 }

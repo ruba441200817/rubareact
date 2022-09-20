@@ -8,7 +8,7 @@ function footer() {
 <blockquote>
 <ul>
   <li><p>  <a href="rubaalabdulay@gmail.com">Email </a></p></li>
-  <br/>
+  
   <li>        <p>  <a href="rubaalabdulay@gmail.com">phone number</a></p></li>
 
 
